@@ -1,0 +1,2 @@
+# token
+IvyKoin Token Contract
