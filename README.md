@@ -1,2 +1,2 @@
-# token
-IvyKoin Token Contract
+# ivyKoin Token Contract
+IvyKoin Public Network Tokens (IVY)
